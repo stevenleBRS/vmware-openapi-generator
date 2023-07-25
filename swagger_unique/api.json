@@ -1,0 +1,12 @@
+{
+    "files": [
+        "cis",
+        "contentinternal",
+        "esx",
+        "appliance",
+        "stats",
+        "content",
+        "vapi",
+        "vcenter"
+    ]
+}
